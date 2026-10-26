@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+
+:root {
+  --color-primary: #2563eb;
+  --color-primary-dark: #1d4ed8;
+  --color-secondary: #0ea5e9;
+}
+
+body {
+  @apply bg-gradient-to-br from-blue-50 via-white to-sky-50 min-h-screen text-gray-800 antialiased;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
