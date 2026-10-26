@@ -2,6 +2,8 @@
 
 A production-grade, end-to-end Deep Learning web application for time-series weather forecasting. Built for B.Tech Computer Science / Data Science & AI academic projects.
 
+**Live Interactive Demo:** [https://raunak0006.github.io/weather-forecasting-lstm/](https://raunak0006.github.io/weather-forecasting-lstm/)
+
 ---
 
 ## 1. Project Overview
