@@ -48,10 +48,10 @@ export const Layout: React.FC = () => {
             <div className="hidden md:flex items-center space-x-3">
               <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700 border border-blue-200">
                 <Sparkles className="w-3.5 h-3.5 text-blue-600" />
-                B.Tech AI Project
+                hello
               </span>
               <span className="text-xs font-medium text-slate-500 bg-slate-100 px-2.5 py-1 rounded-md">
-                FastAPI + PyTorch/TF + React
+                welcome
               </span>
             </div>
 
